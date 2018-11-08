@@ -6,3 +6,5 @@ Toas
 Appelsin
 Kiwi
 Dansk Øl
+Æble
+Jysk Øl
